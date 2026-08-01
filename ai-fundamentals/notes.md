@@ -26,16 +26,16 @@ These points highlight that AI's biggest limitations are usually not because the
 
 ## Standalone AI Tools
 
+<img src="images/chatgpt-ai-logo.png" alt="ChatGPT AI logo" width="80"> <img src="images/claude-ai-logo.png" alt="Claude AI logo" width="80"> <img src="images/otter-ai-logo.png" alt="Otter AI logo" width="80"> <img src="images/midjourney-ai-logo.png" alt="Midjourney AI logo" width="80">
+
 AI-powered tools designed to work independently with minimal setup.
 
 1. **ChatGPT**, **Claude** – Chatbots for answering questions, generating content, summarising information, brainstorming ideas, and assisting with coding and problem-solving.
-<img src="images/chatgpt-ai-logo.png" alt="ChatGPT AI logo" width="80"><img src="images/claude-ai-logo.png" alt="Claude AI logo" width="80">
 
 2. **Otter.ai** – AI-powered transcription tool that converts speech into text for meetings, lectures, interviews, and conversations.
-<img src="images/otter-ai-logo.png" alt="Otter AI logo" width="80">
 
 3. **Midjourney**, **DALL·E** – AI image generation tools that create images from natural language prompts.
-<img src="images/midjourney-ai-logo.png" alt="Midjourney AI logo" width="80">
+
 
 ## Integrated AI Tools
 
