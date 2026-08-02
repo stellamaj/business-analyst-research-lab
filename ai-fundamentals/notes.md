@@ -26,7 +26,7 @@ These points highlight that AI's biggest limitations are usually not because the
 
 ## Standalone AI Tools
 
-<img src="images/chatgpt-ai-logo.png" alt="ChatGPT AI logo" width="80">   <img src="images/claude-ai-logo.png" alt="Claude AI logo" width="80">   <img src="images/otter-ai-logo.png" alt="Otter AI logo" width="80">   <img src="images/midjourney-ai-logo.png" alt="Midjourney AI logo" width="80">
+<img src="images/chatgpt-ai-logo.png" alt="ChatGPT AI logo" width="80">    <img src="images/claude-ai-logo.png" alt="Claude AI logo" width="80">    <img src="images/otter-ai-logo.png" alt="Otter AI logo" width="80">    <img src="images/midjourney-ai-logo.png" alt="Midjourney AI logo" width="80">
 
 AI-powered tools designed to work independently with minimal setup.
 
